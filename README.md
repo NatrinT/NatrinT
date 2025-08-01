@@ -19,7 +19,7 @@ My goal is to become a software developer who creates impactful solutions.
 *   💡  Interested in Software Development, Web Technologies and AI
 *   🤝  I enjoy working in collaborative environments and solving real-world problems through technology
 *   🌱  I'm constantly learning new tools and frameworks to improve my development skills  
-*   ✉️  You can contact me at [natrin.th@gmail.com](mailto:natrin.th@gmail.com)
+*   ✉️  You can contact me at [th.natrin@gmail.com](mailto:th.natrin@gmail.com)
 
 <br>
 
