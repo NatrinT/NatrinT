@@ -56,8 +56,8 @@ My goal is to become a software developer who creates impactful solutions.
 ## 🔍 Social
 
 <p align="left" dir="auto">
- <a href="https://fb.com/Natrin Thongvichit" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chittaworn khirieksathit" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
-<a href="https://instagram.com/potter.mri" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_r.ctw" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
+ <a href="https://fb.com/Natrin Thongvichit" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Natrin Thongvichit" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
+<a href="https://instagram.com/potter.mri" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="potter.mri" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
 </p>
                     
 
@@ -65,7 +65,7 @@ My goal is to become a software developer who creates impactful solutions.
 
 ## 📊 GitHub Stats
                     
- <a
-                      href="http://www.github.com/NatrinT"><img src="https://github-readme-stats.vercel.app/api?username=NatrinT&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NatrinT's GitHub stats" /></a><a href="https://github.com/NatrinT" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatrinT&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ <a href="http://www.github.com/NatrinT"><img src="https://github-readme-stats.vercel.app/api?username=NatrinT&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NatrinT's GitHub stats" /></a>
+ <a href="https://github.com/NatrinT" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatrinT&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <hr>
